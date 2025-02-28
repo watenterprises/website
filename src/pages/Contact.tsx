@@ -246,7 +246,7 @@ const Contact: React.FC = () => {
               <p className="text-gray-600 mb-8">Book a time slot that works for you using our online scheduling tool.</p>
               
               <div className="h-[600px] border border-gray-200 rounded-lg overflow-hidden">
-                <InlineWidget url="https://calendly.com/your-account" />
+                <InlineWidget url="https://calendly.com/watenterprisesglobal" />
               </div>
             </div>
           </div>
