@@ -6,7 +6,7 @@ const Home: React.FC = () => {
   return (
     <div>
       {/* Hero Section */}
-      <section className="relative h-screen flex items-center bg-gradient-to-r from-blue-900 to-indigo-900 text-white">
+      <section className="relative h-screen flex items-center bg-gradient-to-r from-blue-400 to-indigo-900 text-white">
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <div className="container mx-auto px-4 z-10">
           <div className="max-w-3xl" data-aos="fade-up">
